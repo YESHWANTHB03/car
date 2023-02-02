@@ -10,7 +10,7 @@ body{
 
 }
 .landing{
-    background-image: url("bg.jpg");
+    background-color: yellow;
     background-size:cover;
     background-position: center;
     height: 100vh;

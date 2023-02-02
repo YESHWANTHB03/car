@@ -3,7 +3,7 @@
 
 }
 body{
-    background-image: url("bg.jpg");
+    background-color: yellow;
     background-size:cover;
     background-position: center;
     height:97.2vh;

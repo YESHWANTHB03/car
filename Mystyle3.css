@@ -1,0 +1,11 @@
+.sign label{
+    display: block;
+
+}
+body{
+    background-image: url("../images/bg.jpg");
+    background-size:cover;
+    background-position: center;
+    height:97.2vh;
+
+}

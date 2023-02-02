@@ -1,0 +1,17 @@
+h4{
+    font-style:italic;
+    text-align: center;
+}
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.head{
+    color:brown;
+    text-align:center;
+    font-weight: bolder;
+}
+.model{
+    position: relative;
+    bottom:2px;
+}
